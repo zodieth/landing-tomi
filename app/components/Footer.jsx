@@ -2,7 +2,7 @@ import React from "react";
 
 function Footer() {
   return (
-    <div className="flex items-center justify-center my-10 ">
+    <div className="flex items-center justify-center mt-20 mb-10 ">
       <div className="flex flex-col w-full mx-10 md:flex-row md:justify-between md:mx-40  ">
         <div className="py-2 mx-0 md:mx-10">
           <h1 className="text-[#2f2c4f] text-2xl font-bold hover:underline cursor-pointer">
