@@ -15,7 +15,7 @@ function Image() {
           <h1 className="text-4xl font-semibold md:text-6xl">
             Keep learning as you go.
           </h1>
-          <p className="font-light text-1xl mt-5 w-[30rem] md:w-[40rem] lg:w-[50rem] md:text-2xl ">
+          <p className="font-light text-1xl mt-5 w-[25rem] md:w-[40rem] lg:w-[50rem] md:text-2xl ">
             Want to be first in line to learn tips and tricks for supercharging
             your mockups with Desaign? There are many helpful resources in our
             blog.
