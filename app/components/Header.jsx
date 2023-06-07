@@ -33,12 +33,15 @@ function Header() {
         </div>
       </div>
 
-      <div className="flex-1 flex items-center">
+      <div className="flex-1 flex items-center justify-center">
         <div className="text-center mx-auto">
           <h1 className="text-6xl font-semibold">LTM Software!</h1>
-          <p className="font-light text-3xl mt-5">The land of opportunity.</p>
+          <p className="font-light text-2xl mt-5 w-[25rem] md:w-[40rem] ">
+            Speed up your design process by creating realistic mockups with
+            AI-driven content
+          </p>
           <Link
-            className="px-6 py-2 inline-block bg-violet-600 font-bold text-white hover:bg-violet-500 transition-colors mt-10 rounded-[1rem]"
+            className="px-6 py-2 inline-block bg-[#2e1cff] text-1xl font-bold text-white hover:bg-[#4B3AFF] transition-colors mt-10 rounded-[1rem]"
             href="/"
           >
             Get Started

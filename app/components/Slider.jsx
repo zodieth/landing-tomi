@@ -7,11 +7,11 @@ import html from "../img/languages/html.png";
 
 function Slider() {
   return (
-    <div className="mt-5 flex flex-col items-center justify-center m-2">
-      <div className="font-semibold text-violet-950 text-2xl md:text-3xl lg:text-4xl">
+    <div className="mt-10 flex flex-col items-center justify-center m-2">
+      <div className="font-semibold text-[#2f2c4f] text-2xl md:text-3xl lg:text-4xl">
         700+ Clients
       </div>
-      <div className="flex flex-col gap-2 md:flex-row grayscale-[80%] md:gap-10 lg:gap-20">
+      <div className="mt-5 flex flex-wrap items-center justify-center  gap-2 md:flex-row grayscale-[80%] md:gap-10 lg:gap-20">
         <Image src={js} width={100} className="m-6" />
         <Image src={css} width={100} className="m-6" />
         <Image src={node} width={100} className="m-6" />
